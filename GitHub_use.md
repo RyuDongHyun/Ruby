@@ -18,3 +18,4 @@
    - git아 기록상태 알려줘
 5.  git push -u origin master
    - git아 업로드해라
+
