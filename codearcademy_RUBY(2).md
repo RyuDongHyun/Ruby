@@ -89,8 +89,11 @@
    (`.each` 반복문 사용)
 
    - `my_hash.each do |x, y| ~ end`
+   - 해쉬는 순서가 없다. 뒤죽박죽. 따라서 `.sort` 기능이 없다.
 
 
+
+** ''
 
 ## Method example
 
