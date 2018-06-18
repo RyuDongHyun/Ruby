@@ -50,7 +50,7 @@
 
      => git아~ 원격저장소 등록해라 이름은 origin으로 주소는 `http://github.com/Ryu~~`
 
-   ![git-address](https://user-images.githubusercontent.com/40014912/41513867-227461aa-72dd-11e8-8748-a0c213d08f71.png
+   ![git-address](https://user-images.githubusercontent.com/40014912/41513867-227461aa-72dd-11e8-8748-a0c213d08f71.png)
 
    - `git remote` :  등록된 원격저장소의 이름을 알 수 있다.
    - `git remote -v` : 등록된 원격저장소의 주소를 알 수 있다.
