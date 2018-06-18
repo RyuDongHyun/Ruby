@@ -17,7 +17,7 @@
 
 ### Work Flow_작업순서도
 
-![1528789667208](C:\Users\student\AppData\Local\Temp\1528789667208.png)
+![workflow](https://user-images.githubusercontent.com/40014912/41513855-07c20664-72dd-11e8-8b76-b78f5a7a9245.png)
 
 1. 현재 작업하고 있는 폴더(Working Directory) 안에 있는 내용들을 버전관리하겠다.
 
@@ -50,7 +50,7 @@
 
      => git아~ 원격저장소 등록해라 이름은 origin으로 주소는 `http://github.com/Ryu~~`
 
-   ![1528790587016](C:\Users\student\AppData\Local\Temp\1528790587016.png)
+   ![git-address](https://user-images.githubusercontent.com/40014912/41513867-227461aa-72dd-11e8-8748-a0c213d08f71.png
 
    - `git remote` :  등록된 원격저장소의 이름을 알 수 있다.
    - `git remote -v` : 등록된 원격저장소의 주소를 알 수 있다.
